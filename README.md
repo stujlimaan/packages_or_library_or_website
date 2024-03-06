@@ -14,3 +14,21 @@ All the packages or libray or website should know to use for making website
 <p> A free test data generator and API mocking tool - Mockaroo lets you create custom CSV, JSON, SQL, and Excel datasets to test and demo your software.</p>
 
 <a>https://www.mockaroo.com/</a>
+
+# Free for Developers
+<p>Find all resources for developers</p>
+
+<a>https://free-for.dev/#/</a>
+
+# Project Based Learning
+
+<a>https://github.com/practical-tutorials/project-based-learning</a>
+
+# every-programmer-should-know
+
+<a>https://github.com/mtdvio/every-programmer-should-know</a>
+
+# developer-roadmap
+
+<a>https://github.com/kamranahmedse/developer-roadmap</a>
+
