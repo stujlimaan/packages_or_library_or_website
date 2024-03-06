@@ -81,3 +81,12 @@ Interactive roadmaps, guides and other educational content to help developers gr
 
 <a>https://github.com/Chalarangelo/30-seconds-of-code?tab=readme-ov-file</a>
 
+# Learn DSA and Algorithm Animation
+<p>visualising data structures and algorithms through animation</p>
+
+<a>https://visualgo.net/en</a>
+
+# Conventional Commits
+
+<a>https://www.conventionalcommits.org/en/v1.0.0/#summary</a>
+
