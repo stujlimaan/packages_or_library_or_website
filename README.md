@@ -1,5 +1,5 @@
 # packages_or_library_or_website
-All the packages or libray or website should know to use for making website
+Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 # JSON 
 <p> JSON Crack is a free, open-source data visualization app capable of visualizing data formats such as JSON, YAML, XML, CSV and more, into interactive graphs</p>
@@ -31,4 +31,20 @@ All the packages or libray or website should know to use for making website
 # developer-roadmap
 
 <a>https://github.com/kamranahmedse/developer-roadmap</a>
+
+# awesome
+
+<a>https://github.com/sindresorhus/awesome?tab=readme-ov-file</a>
+
+# public-apis
+
+<a>https://github.com/public-apis/public-apis?tab=readme-ov-file</a>
+
+# System Design Primer
+
+<a>https://github.com/donnemartin/system-design-primer</a>
+
+# Design Resources for Developers
+
+<a>https://github.com/bradtraversy/design-resources-for-developers</a>
 
